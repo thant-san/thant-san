@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @thant-san
-- 👀 I’m interested in ml and robotics
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+HELLO,I'm thant htoo san and undergraduate student
+currently,i am learing ml and continue to robotics
+
 
 <!---
 thant-san/thant-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
